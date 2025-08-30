@@ -1,3 +1,6 @@
+# rtoriiiiii
+Generative AI Engineer at ESTYLE, Inc.
+
 ![My GitHub stats](https://github-readme-stats-alpha-roan-53.vercel.app/api?username=rtoriiiiii&show_icons=true&count_private=true&theme=tokyonight)
 
 ![](./profile-summary-card-output/tokyonight/0-profile-details.svg)
