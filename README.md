@@ -1,3 +1,4 @@
+![My GitHub stats](https://github-readme-stats-alpha-roan-53.vercel.app/api?username=rtoriiiiii&show_icons=true&count_private=true&theme=transparent)
 
 ![](./profile-summary-card-output/default/0-profile-details.svg)
 ![](./profile-summary-card-output/default/1-repos-per-language.svg)
