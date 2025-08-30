@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-### 参考記事
+### References
 
-- [GitHubのプロフィールを充実させてみよう♪](https://qiita.com/Keichan_15/items/7d0595369d6b6e321ede)
-- [GitHub Readme StatsにPrivate Repositoryを反映させる方法](https://zenn.dev/pageo/articles/a9acf452a84003)
+- https://qiita.com/Keichan_15/items/7d0595369d6b6e321ede
+- https://zenn.dev/pageo/articles/a9acf452a84003
